@@ -22,4 +22,4 @@ function holidayCountdown(days, holiday) {
 console.log(happyHolidays());
 console.log(happyHolidaysTo(Tyler));
 console.log(happyHolidayTo(Thanksgiving, Joey));
-console.log(holidayCountdown(13, Christmas));
+console.log(holidayCountdown(20, Christmas));
