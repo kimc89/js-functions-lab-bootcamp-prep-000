@@ -1,11 +1,11 @@
 // write your code below!
 function happyHolidays() {
-  var greeting = "Happy Holidays!";
+  var greeting = "Happy holidays!";
   return greeting;
 }
 
 function happyHolidaysTo(name) {
-  var greeting = "Happy Holidays, ${name}!";
+  var greeting = "Happy holidays, ${name}!";
   return greeting;
 }
 
@@ -23,4 +23,3 @@ console.log(happyHolidays());
 console.log(happyHolidaysTo(Tyler));
 console.log(happyHolidayTo(Thanksgiving, Joey));
 console.log(holidayCountdown(13, Christmas));
-
